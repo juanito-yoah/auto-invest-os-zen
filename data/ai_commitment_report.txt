@@ -1,0 +1,214 @@
+
+================================================================================================================================================================
+  OUTPUT 3 — AI COMMITMENT TRACKER
+  auto-invest-os-zen KPI Audit — 2026-04-13 — Conservative estimates only. All ASSUMED and PIPELINE PENDING metrics require manual review before any investment decision is made.
+================================================================================================================================================================
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  GOOGL — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅✅ DOUBLE DOWN        Gemini AI Models (1.5 Pro / 2.0)
+    Signal type   : ALL_THREE
+    Signal date   : 2024-12-11
+    Source        : Google I/O 2024; Q4 2024 earnings call Feb 2025 (Sundar Pichai)
+    Metric        : Google Cloud AI revenue
+    Value         : $43.2B FY2024 (+35% YoY)
+    Notes         : S1: Gemini 2.0 product launch Dec 2024. S2: CEO cited AI across all products Q4 earnings. S3: Cloud AI revenue growth explicitly attributed. QoQ acceleration co
+
+  ✅ CONFIRMED           Vertex AI Platform (Enterprise)
+    Signal type   : ALL_THREE
+    Signal date   : 2024-05-14
+    Source        : Google I/O 2024; Q3 2024 earnings call
+    Metric        : Enterprise AI customers on Vertex
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : All three signals confirmed. Customer count metric not separately disclosed in yfinance.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  NVDA — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅✅ DOUBLE DOWN        Blackwell GPU Architecture (B200 / GB200)
+    Signal type   : ALL_THREE
+    Signal date   : 2024-03-18
+    Source        : GTC 2024 keynote; Q4 FY2025 earnings call Feb 2025 (Jensen Huang)
+    Metric        : Data Center revenue
+    Value         : $115.2B FY2025 (+142% YoY)
+    Notes         : S1: Blackwell announced GTC 2024. S2: CEO Jensen Huang multiple earnings calls. S3: $115.2B Data Center FY2025. QoQ acceleration confirmed. NEW SEGMENT DISCLOSU
+
+  ✅ CONFIRMED           CUDA AI Platform / NIM Microservices
+    Signal type   : ALL_THREE
+    Signal date   : 2024-03-18
+    Source        : GTC 2024; multiple earnings calls 2024-2025
+    Metric        : CUDA developer ecosystem + NIM adoption
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : All three signals confirmed. Developer count and NIM adoption metrics cited but not quantified separately in yfinance.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  PLTR — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅✅ DOUBLE DOWN        AIP (Artificial Intelligence Platform)
+    Signal type   : ALL_THREE
+    Signal date   : 2023-04-26
+    Source        : AIP launch press release Apr 2023; Q3 2024 earnings call (Alex Karp)
+    Metric        : US Commercial revenue growth
+    Value         : US Commercial +54% YoY Q3 2024. MANUAL UPDATE REQUIRED for latest quarter.
+    Notes         : S1: AIP product launch Apr 2023. S2: CEO Karp cited AIP every earnings call. S3: US Commercial growth explicitly attributed to AIP boot camp conversions. QoQ ac
+
+  ⚠️ WATCH              Maven Smart System (Government AI)
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2024-01-15
+    Source        : DoD press releases 2024; Q2 2024 earnings call
+    Metric        : US Government revenue
+    Value         : $742M FY2024 (+16% YoY)
+    Notes         : S1 & S2 confirmed. S3: Government revenue growing but AI attribution within contracts requires SEC EDGAR. MANUAL UPDATE REQUIRED.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CRWD — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅ CONFIRMED           Charlotte AI (Generative AI Security Assistant)
+    Signal type   : ALL_THREE
+    Signal date   : 2023-05-24
+    Source        : RSA Conference 2023 launch; Q3 FY2025 earnings call (George Kurtz)
+    Metric        : Charlotte AI customer adoption %
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1: Charlotte AI launched RSA 2023. S2: CEO Kurtz cited Charlotte AI on multiple earnings calls. S3: Module adoption referenced on calls — specific percentage M
+
+  ⚠️ WATCH              Falcon Flex AI-Unified Platform
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2024-09-01
+    Source        : Fal.Con 2024 conference; Q3 FY2025 earnings call
+    Metric        : Falcon Flex ARR contribution
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1 & S2 confirmed at Fal.Con 2024. S3: ARR attributed to Flex not separately disclosed in yfinance.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DDOG — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⚠️ WATCH              Bits AI (Observability AI Copilot)
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2024-10-01
+    Source        : DASH 2024 conference; Q3 2024 earnings call (Olivier Pomel)
+    Metric        : Bits AI customer usage
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1: Bits AI announced DASH 2024. S2: CEO Pomel referenced AI investment. S3: Product usage metrics not separately disclosed.
+
+  🔴 HYPE                LLM Observability Product
+    Signal type   : SIGNAL_1_ONLY
+    Signal date   : 2024-06-01
+    Source        : Product launch blog post Jun 2024
+    Metric        : LLM monitoring customers
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1 confirmed (product launched). Management earnings call commitment MANUAL UPDATE REQUIRED. No adoption metrics disclosed.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DXCM — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⚠️ WATCH              Stelo OTC CGM with AI Insights
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2024-08-01
+    Source        : Stelo launch press release Aug 2024; Q3 2024 earnings call (Kevin Sayer)
+    Metric        : Stelo user growth
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1: Stelo OTC CGM launched Aug 2024. S2: CEO Sayer cited on Q3 2024 earnings. S3: Sales figures mentioned but AI attribution separate from device sales MANUAL U
+
+  🔴 HYPE                DexCom ONE+ AI-Powered Glycemic Insights
+    Signal type   : SIGNAL_1_ONLY
+    Signal date   : 2024-03-01
+    Source        : Product announcement Mar 2024
+    Metric        : N/A
+    Value         : N/A
+    Notes         : S1 only — product announcement. Earnings call management mention MANUAL UPDATE REQUIRED.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  HIMS — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  🔴 HYPE                AI Personalized Treatment Platform
+    Signal type   : SIGNAL_1_ONLY
+    Signal date   : 2024-07-01
+    Source        : Company press releases Jul 2024
+    Metric        : N/A
+    Value         : N/A
+    Notes         : S1: AI personalization announced in press releases. S2: CEO Andrew Dudum limited specific AI spend disclosure on earnings calls. S3: No adoption metrics. MANUAL
+
+  🔴 HYPE                GLP-1 AI Dosing Optimization
+    Signal type   : SIGNAL_1_ONLY
+    Signal date   : 2024-09-01
+    Source        : Product roadmap disclosures Sep 2024
+    Metric        : N/A
+    Value         : N/A
+    Notes         : S1: GLP-1 AI dosing optimization mentioned in product materials. Earnings call and revenue attribution MANUAL UPDATE REQUIRED.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  V — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅ CONFIRMED           Visa Protect (AI Fraud Detection)
+    Signal type   : ALL_THREE
+    Signal date   : 2023-01-01
+    Source        : Annual report 2023; FY2024 earnings call (Ryan McInerney)
+    Metric        : Annual fraud prevented
+    Value         : $40B+ fraud prevented annually (per company disclosure)
+    Notes         : S1: Long-standing AI fraud product. S2: CEO McInerney referenced AI fraud prevention on FY2024 earnings. S3: $40B+ annual fraud prevention cited publicly.
+
+  ⚠️ WATCH              Visa Intelligent Commerce (AI Shopping Agents)
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2025-02-01
+    Source        : Visa press release Feb 2025; Q2 FY2025 earnings call
+    Metric        : Partner integrations
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1: Visa Intelligent Commerce announced Feb 2025. S2: CEO confirmed on earnings call. S3: Revenue attribution not yet reported. NEW SEGMENT DISCLOSURE — potenti
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DUOL — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅✅ DOUBLE DOWN        Duolingo Max (AI-Powered Premium Subscription)
+    Signal type   : ALL_THREE
+    Signal date   : 2023-03-14
+    Source        : Duolingo Max launch press release Mar 2023; Q4 2024 earnings call (Luis von Ahn)
+    Metric        : Paid subscribers / subscription revenue growth
+    Value         : Paid subscribers 9.5M Q3 2024 (+55% YoY). MANUAL UPDATE REQUIRED for Max-specific share.
+    Notes         : S1: Duolingo Max launched Mar 2023 (GPT-4 Roleplay + Explain My Answer). S2: CEO von Ahn cited AI-first pivot, laid off contractors Nov 2023. S3: Subscriber gro
+
+  ⚠️ WATCH              AI Video Call Practice Feature
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2024-09-01
+    Source        : Product launch announcement Sep 2024; earnings call
+    Metric        : Video call feature DAU
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call transcript
+    Notes         : S1 & S2 confirmed. S3: Feature-level usage not separately disclosed.
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  TSLA — AI Product Basket
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ✅ CONFIRMED           Full Self-Driving (FSD) AI v12/v13
+    Signal type   : ALL_THREE
+    Signal date   : 2024-10-10
+    Source        : FSD v12/v13 release notes 2024; Q4 2024 earnings call (Elon Musk)
+    Metric        : FSD cumulative miles / subscription count
+    Value         : MANUAL UPDATE REQUIRED — check latest earnings call for FSD subscription and attach rate.
+    Notes         : S1: FSD has multiple product releases (v12 late 2023, v13 2024). S2: Musk discusses FSD every earnings call. S3: FSD attach rate and subscription revenue partia
+
+  ⚠️ WATCH              Dojo AI Supercomputer (Internal Training)
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2021-08-19
+    Source        : Tesla AI Day 2021/2022; multiple earnings calls
+    Metric        : External compute revenue
+    Value         : N/A — no external revenue as of early 2026
+    Notes         : S1: Dojo extensively announced. S2: Musk cited investment levels. S3: No external revenue from Dojo yet — internal use only.
+
+  ⚠️ WATCH              Optimus Robot (AI-Powered Humanoid)
+    Signal type   : SIGNALS_1_AND_2
+    Signal date   : 2022-09-30
+    Source        : Tesla AI Day 2 Sep 2022; Shareholder Meeting 2024; Q4 2024 earnings call
+    Metric        : Units in internal use / production rate
+    Value         : MANUAL UPDATE REQUIRED — check Q4 2024 earnings for Optimus production update.
+    Notes         : S1: Optimus demo Sep 2022, updated Oct 2024. S2: Musk cited as most valuable asset. S3: Internal factory use reported but no external revenue yet.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+

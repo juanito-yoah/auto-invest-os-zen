@@ -1,0 +1,20 @@
+
+========================================================================================================================
+  OUTPUT 4 — RED FLAG SUMMARY
+  auto-invest-os-zen KPI Audit — 2026-04-13 — Conservative estimates only. All ASSUMED and PIPELINE PENDING metrics require manual review before any investment decision is made.
+========================================================================================================================
+
+  TICKER: CRWD — 1 RED FLAG(S) TRIGGERED
+  3+ KPIs flagged BAD: Return_on_Capital, Earnings_Yield, PEG_Ratio
+
+  TICKER: DDOG — 1 RED FLAG(S) TRIGGERED
+  3+ KPIs flagged BAD: Return_on_Capital, Earnings_Yield, PEG_Ratio
+
+  TICKER: HIMS — 1 RED FLAG(S) TRIGGERED
+  Primary AI product status: 🔴 HYPE — AI Personalized Treatment Platform
+
+  TICKER: TSLA — 1 RED FLAG(S) TRIGGERED
+  3+ KPIs flagged BAD: Return_on_Capital, Gross_Profit_Margin, Earnings_Yield, PEG_Ratio
+
+========================================================================================================================
+

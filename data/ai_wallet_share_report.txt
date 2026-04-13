@@ -1,0 +1,58 @@
+
+========================================================================================================================================================================================================
+  OUTPUT 2 — AI WALLET SHARE TABLE
+  auto-invest-os-zen KPI Audit — 2026-04-13 — Conservative estimates only. All ASSUMED and PIPELINE PENDING metrics require manual review before any investment decision is made.
+========================================================================================================================================================================================================
+  Ticker  Seg       Segment Name                                            Revenue              TAM    Wallet%     Prior%     QoQ pp Conf                   Source           Date
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  GOOGL   CORE      Advertising revenue vs Meta                            $264.60B         $680.00B   38.9118% N/A — 1st run N/A — 1st run ❌ ASSUMED              IAB              2024
+    Notes: Advertising revenue (Search+YouTube+Network) hardcoded from 2024 10-K. PIPELINE PENDING — SEC EDGAR pull for automation.
+  GOOGL   BIG_BET   Google Cloud revenue vs Azure                           $43.23B         $580.00B    7.4531% N/A — 1st run N/A — 1st run ❌ ASSUMED              IDC              2024
+    Notes: Google Cloud FY2024 hardcoded from earnings release. PIPELINE PENDING — SEC EDGAR pull for automation.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  NVDA    CORE      Data Center revenue vs AMD                             $115.16B         $120.00B   95.9692% N/A — 1st run N/A — 1st run ❌ ASSUMED              IDC              2024
+    Notes: Data Center segment FY2025 hardcoded from 10-K. PIPELINE PENDING — SEC EDGAR pull for automation.
+  NVDA    BIG_BET   AI Software/Services revenue vs Microsoft               PENDING         $280.00B    PENDING N/A — 1st run N/A — 1st run PIPELINE PENDING       Gartner          2024
+    Notes: PIPELINE PENDING — NVDA AI software/services revenue not separately disclosed. SEC EDGAR segment analysis needed.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  PLTR    CORE      Government/Defense revenue vs Booz Allen                 $1.14B          $45.00B    2.5422% N/A — 1st run N/A — 1st run ❌ ASSUMED              GOVWIN           2024
+    Notes: Government segment FY2024 hardcoded from 10-K. PIPELINE PENDING — SEC EDGAR pull for automation.
+  PLTR    BIG_BET   Commercial Analytics revenue vs Snowflake                $1.42B          $95.00B    1.4937% N/A — 1st run N/A — 1st run ❌ ASSUMED              IDC              2024
+    Notes: Commercial segment (US+International) FY2024 hardcoded from 10-K. PIPELINE PENDING — SEC EDGAR pull for automation.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CRWD    CORE      Endpoint Security revenue vs SentinelOne                 $4.81B          $18.00B   26.7334% N/A — 1st run N/A — 1st run ⚠️ TRIANGULATED        Gartner          2024
+    Notes: Total subscription revenue used as endpoint proxy — no module-level breakdown in yfinance. PIPELINE PENDING — SEC EDGAR ARR breakdown needed.
+  CRWD    BIG_BET   AI-native SOC Platform revenue vs Palo Alto             PENDING          $42.00B    PENDING N/A — 1st run N/A — 1st run PIPELINE PENDING       Gartner          2024
+    Notes: PIPELINE PENDING — AI-native SOC revenue not separately disclosed in yfinance.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DDOG    CORE      Cloud Monitoring revenue vs Dynatrace                    $3.43B          $22.00B   15.5780% N/A — 1st run N/A — 1st run ⚠️ TRIANGULATED        Gartner          2024
+    Notes: Total revenue used as cloud monitoring proxy. PIPELINE PENDING — product segment breakdown needed.
+  DDOG    BIG_BET   AI Observability revenue vs New Relic                   PENDING          $38.00B    PENDING N/A — 1st run N/A — 1st run PIPELINE PENDING       Gartner          2024
+    Notes: PIPELINE PENDING — AI observability revenue not separately disclosed.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  HIMS    CORE      Telehealth/GLP-1 revenue vs Teladoc                      $2.35B          $50.00B    4.6953% N/A — 1st run N/A — 1st run ⚠️ TRIANGULATED        McKinsey         2024
+    Notes: Total revenue used — telehealth/GLP-1 is core business. Segment split PIPELINE PENDING.
+  HIMS    BIG_BET   AI Personalized Treatment revenue vs Novo Nordi         PENDING         $180.00B    PENDING N/A — 1st run N/A — 1st run PIPELINE PENDING       IQVIA            2024
+    Notes: PIPELINE PENDING — AI personalized treatment not separately disclosed.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DXCM    CORE      CGM Devices revenue vs Abbott                            $4.66B          $18.00B   25.9000% N/A — 1st run N/A — 1st run ⚠️ TRIANGULATED        IQVIA            2024
+    Notes: Total revenue used — CGM is essentially the entire business.
+  DXCM    BIG_BET   AI Diabetes Management Software vs Medtronic            PENDING           $8.00B    PENDING N/A — 1st run N/A — 1st run PIPELINE PENDING       Rock Health      2024
+    Notes: PIPELINE PENDING — AI diabetes management software not separately disclosed.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  DUOL    CORE      Language Learning subscription revenue vs Babbe          $1.04B          $12.00B    8.6466% N/A — 1st run N/A — 1st run ⚠️ TRIANGULATED        HolonIQ          2024
+    Notes: Total revenue used as subscription proxy. Sub/other split PIPELINE PENDING — SEC EDGAR needed.
+  DUOL    BIG_BET   AI-native Education Platform revenue vs Khan Ac          $1.04B         $180.00B    0.5764% N/A — 1st run N/A — 1st run ⚠️ TRIANGULATED        HolonIQ          2024
+    Notes: Total revenue used — Duolingo repositioned as AI-first platform 2024. All revenue treated as AI-native proxy.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  V       CORE      Payment Processing network volume vs Mastercard         $40.00B           $3.20T    1.2500% N/A — 1st run N/A — 1st run ❌ ASSUMED              Nilson Report    2024
+    Notes: TAM is card network VOLUME ($3.2T); company figure is REVENUE ($41.4B) — unit mismatch flagged. Wallet share % is revenue/volume ratio, not apples-to-apples. PI
+  V       BIG_BET   Enterprise AI Fraud/Risk Intelligence vs Palant         PENDING          $18.00B    PENDING N/A — 1st run N/A — 1st run PIPELINE PENDING       Nilson Report    2024
+    Notes: PIPELINE PENDING — Visa AI fraud revenue bundled in service fees, not separately disclosed.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  TSLA    CORE      Automotive revenue vs BYD and Ford                      $77.12B           $2.80T    2.7542% N/A — 1st run N/A — 1st run ❌ ASSUMED              OICA             2024
+    Notes: Automotive segment FY2024 hardcoded from 10-K. PIPELINE PENDING — SEC EDGAR pull for automation.
+  TSLA    BIG_BET   Energy and Grid AI revenue vs NextEra                   $10.10B         $320.00B    3.1562% N/A — 1st run N/A — 1st run ❌ ASSUMED              BloombergNEF     2024
+    Notes: Energy Generation & Storage segment FY2024 hardcoded from 10-K. AI-specific attribution within energy PIPELINE PENDING.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
